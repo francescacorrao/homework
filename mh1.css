@@ -157,6 +157,7 @@ div.persone{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin:3%;
 }
 @media(max-width: 700px){
     #attori, #registi{
